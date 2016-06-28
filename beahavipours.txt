@@ -1,0 +1,52 @@
+Generic Push Notificaition
+Handled everything solely
+Designed database
+study apns api
+Documentation
+Interacted with onsite
+
+Time Warner Cable
+Business was not able to see app on iOS 7.1
+I had to setup jenkins server using apache 
+Totally new to me I had to go through encryption, self signed certi.
+
+Leading a team:
+I was supposed to lead a team of 10 new joinees.
+I divided them in group of 5 and 5.
+taught them how mobile applications works
+1 team to develop back edn other one front end.rotation policy
+Simple application to develop a simple device registration app(MAT) so that devices dont get stolen in the work area.
+
+Tough Time:
+In College My professor wanted to implement a voip project. But I with my frieds wanted to do a project on security related 
+to Voip and not plain voip. We tried our level best to convince him about the project but he was a little adamant. SO we decided to show hime a demo. We implemented security feature of voip parrallely and got out project changed in between.
+
+Implement the following VotingMachine interface as a thread-safe singleton based service. Voting can only take place while the service is in a “run” state.
+is javascript dyna,ic types ord static typed.
+constructors are overlaoded
+main is private
+
+amazing
+hardworker
+cool minded
+passionateclass Foo {
+  	public int a=3;
+  	public void addFive() {
+   	 a+=5;
+    		System.out.print("f ");
+  	}
+}
+class Bar extends Foo {
+  public int a=8;
+  public void addFive() {
+    	this.a += 5;
+   	 System.out.print("b ");
+ 	 }
+}
+public class TestClass {
+  public static void main(String[]args) {
+   	 Foo f = new Bar();
+    	f.addFive();
+   	 System.out.println(f.a);
+  }
+}
